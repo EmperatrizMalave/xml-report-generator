@@ -1,0 +1,13 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos de Excel generados
+*.xlsx
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de dependencias
+venv/
+env/
